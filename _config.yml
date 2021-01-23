@@ -23,7 +23,7 @@ email: mailprabhatr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website is dedicated to Dual Degree projects update. The project is currently at phase two and regular updates will be posted here.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "prabhat496.github.io/ddp_publish" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://prabhat496.github.io/ddp_publish" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: prabhatr27
 github_username:  prabhat496
 
